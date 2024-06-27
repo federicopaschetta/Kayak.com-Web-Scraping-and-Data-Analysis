@@ -1,0 +1,10 @@
+LHR: London
+CDG: Paris
+AMS: Amsterdam
+FRA: Frankfurt
+MAD: Madrid
+BCN: Barcelona
+IST: Istanbul
+MUC: Munich
+FCO: Rome
+DUB: Dublin
